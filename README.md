@@ -5,13 +5,15 @@
 
 ### Contenido
 * Expresiones Aritmetico-Logicas
+* Variables
 * Condicionales
+* Según
 * Hasta Que
+* Mientras
 * Para
 * Matrices
-* Mientras
-* Según
-* Variables
+* Cadenas de Texto
+
 
 #### Otros
 * Relaciones de ejercicios
