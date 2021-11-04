@@ -13,6 +13,7 @@
 * Para
 * Matrices
 * Cadenas de Texto
+* Funciones Matemáticas
 
 
 #### Otros
