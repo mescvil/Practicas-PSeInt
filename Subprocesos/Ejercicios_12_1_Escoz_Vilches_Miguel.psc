@@ -1,6 +1,6 @@
 SubProceso escribirCentrado(string)
 	Definir i, tope Como Entero;
-	tope <- 40-Longitud(string)/2;
+	tope <- trunc(40-Longitud(string)/2);
 	Para i<-0 Hasta tope Hacer
 		Escribir Sin Saltar " ";
 	FinPara
